@@ -13,7 +13,7 @@ const CONFIG = {
   weddingDateISO: "2026-06-27T19:00:00", // Format: YYYY-MM-DDTHH:MM:SS (19:00 = 7pm)
   weddingDateDisplay: "June 27, 2026",
   weddingDateDisplayAr: "٢٧ يونيو ٢٠٢٦",
-  weddingTime: "7 pm",
+  weddingTime: "8 pm",
 
   // Venue
   weddingLocation: "Al Andalusia Hall",
